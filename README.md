@@ -32,6 +32,7 @@
 
 Pada 2 mei 2020 kasus Covid-19 yang pertama kali tercatat di Indonesia. Adanya pandemi Covid-19 berdampak signifikan terhadap kehidupan banyak orang. Pendidikan adalah suatu usaha sadar serta terencana utuk dapat mewujudkan suasana belajar dan proses pembelajaran supaya pesertadidik dengan secara aktif mengembangkan atau menggali potensi dirinya untuk bisa atau dapat mempunyai kekuatuan pengendalian diri, spiritual keagamaan, kecerdasan, akhlak mulia, kepribadian dan juga keterampilan yang diperlukan bagi dirinya, bagi masyarakat, bagi bangsa, dan bagi negara (UU No.20 Tahun 2003). Karena pandemi Covid-19 tersebut, banyak hal yang berubah, baik dari segi ekonomi, sosial, pendidikan dan bahkan budaya di masyarakat. Selama masa pandemi Covid-19, berbagai upaya telah dilakukan untuk mempertahankan kualitas pendidikan di Indonesia. 
 
+
 ## DATA
 Data yang digunakan merupakan data indikator pendidikan 1994-2021 yang di peroleh dari BPS. 
 
@@ -148,10 +149,9 @@ Dashboard yang dibuat dibagi menjadi 2 sisi. Bagian kiri akan diisi oleh visuali
 
 ## Hasil Akhir
 
-
 <div align="center">
   <a>
-    <img src="images/hasil.png" alt="hasil" width="1000" height="450">
+    <img src="images/Hasil.png" alt="Hasil" width="1000" height="450">
   </a>
 </div>
 

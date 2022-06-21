@@ -80,22 +80,61 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Dashboard Visualisasi Rata-rata Indikator Pendidikan sebelum dan Saat Pandemi Covid-19
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Pada 2 mei 2020 kasus Covid-19 yang pertama kali tercatat di Indonesia. Adanya pandemi Covid-19 berdampak signifikan terhadap kehidupan banyak orang. Pendidikan adalah suatu usaha sadar serta terencana utuk dapat mewujudkan suasana belajar dan proses pembelajaran supaya pesertadidik dengan secara aktif mengembangkan atau menggali potensi dirinya untuk bisa atau dapat mempunyai kekuatuan pengendalian diri, spiritual keagamaan, kecerdasan, akhlak mulia, kepribadian dan juga keterampilan yang diperlukan bagi dirinya, bagi masyarakat, bagi bangsa, dan bagi negara (UU No.20 Tahun 2003). Karena pandemi Covid-19 tersebut, banyak hal yang berubah, baik dari segi ekonomi, sosial, pendidikan dan bahkan budaya di masyarakat. Selama masa pandemi Covid-19, berbagai upaya telah dilakukan untuk mempertahankan kualitas pendidikan di Indonesia. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Indikator Pendidikan beserta variabel-variabelnya:
+* Partisipasi Pendidikan Formal (APS)
+* - Angka Partisipasi Sekolah (APS) 7-12 th
+* - Angka Partisipasi Sekolah (APS) 13-15 th
+* - Angka Partisipasi Sekolah (APS) 16-18 th
+* - Angka Partisipasi Sekolah (APS) 19-24 th
+* - Angka Partisipasi Kasar (APK) SD/MI
+* - Angka Partisipasi Kasar (APK) SMP/MTs
+* - Angka Partisipasi Kasar (APK) SM/MA
+* - Angka Partisipasi Kasar (APK) PT 19-24 th
+* - Angka Partisipasi Murni (APM) SD/MI
+* - Angka Partisipasi Murni (APM) SMP/MTs
+* - Angka Partisipasi Murni (APM) SM/MA
+* - Angka Partisipasi Murni (APM) PT 19-24 th
+* Partisipasi Pendidikan Formal dan Informal
+* - Angka Partisipasi Sekolah (APS) 7-12 th
+* - Angka Partisipasi Sekolah (APS) 13-15 th
+* - Angka Partisipasi Sekolah (APS) 16-18 th
+* - Angka Partisipasi Sekolah (APS) 19-24 th
+* - Angka Partisipasi Kasar (APK) SD/MI/Paket 
+* - Angka Partisipasi Kasar (APK) SMP/MTs/Paket B
+* - Angka Partisipasi Kasar (APK) SM/MA/Paket C
+* - Angka Partisipasi Murni (APM) SD/MI/Paket 
+* - Angka Partisipasi Murni (APM) SMP/MTs/Paket
+* - Angka Partisipasi Murni (APM) SM/MA/Paket C
 
-Use the `BLANK_README.md` to get started.
+* Pendidikan yang Ditamatkan Penduduk 15 Tahun ke Atas
+* - Tidak/belum sekolah
+* - Tidak tamat SD
+* - SD/sederajat
+* - SMP/sederajat
+* - SM +/sederajat
+* Partisipasi Pra Sekolah (sedang)
+* - Usia 3-4 th
+* - Usia 5-6 th
+* - Usia 3-6 th
+* Partisipasi Pra Sekolah (pernah + sedang)
+* - Usia 3-4 th
+* - Usia 5-6 th
+* - Usia 3-6 th
+* Buta Huruf
+* - Angka Buta Huruf10 th +
+* - Angka Buta Huruf15 th +
+* - Angka Buta Huruf15-44 th
+* - Angka Buta Huruf45 th +
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 
 
 
